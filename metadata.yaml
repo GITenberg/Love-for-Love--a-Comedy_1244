@@ -1,5 +1,8 @@
 _repo: Love-for-Love--a-Comedy_1244
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Congreve, William
@@ -15,6 +18,8 @@ description: National Theatre, E Street Theatre Corporation, lessee, Edmund Ploh
   in Mr. Gielgud's production of "Love for Love," a comedy by William Congreve, directed
   by John Gielgud, settings by Rex Whistler, costumes designed by Jeannetta Cochrane,
   lighting by William Conway
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1244#Love-for-Love--a-Comedy
 gutenberg_issued: '1998-03-01'
 gutenberg_type: Text
 identifiers:
